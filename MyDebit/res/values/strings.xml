@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Texts for login activity -->
+    <string name="app_name">MyDebit</string>
+    <string name="action_settings">Settings</string>
+    <string name="et_login_username_text">Enter User Name</string>
+    <string name="et_password_text">Enter Password</string>
+    <string name="btn_login_text">Login Here</string>
+    <string name="btn_forgotPassword_text">Forgot Password</string>
+    <string name="tv_aboutus_text">About us</string>
+    <string name="tv_contactus_text">Contact Us</string>
+    <string name="tv_register_text">register</string>
+    <!--End of Texts for login activity -->
+   
+   
+    <!-- common colors --> 
+    <color name="common_text_color">#000000</color>
+    <color name="common_hint_text_color">#eee</color>
+    <color name="iv_logo_background_color">#B8B894</color>
+    <color name="main_background_color">#fff2f2</color>
+    <!-- End of common colors -->
+  
+   
+</resources>
